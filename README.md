@@ -35,7 +35,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Install Dependencies:**
    ```bash
-   cd backend
+   cd ecommence-app/backend
    npm install
    cd ../frontend
    npm install
@@ -43,13 +43,13 @@ Follow these steps to set up and run the project locally:
 
 2. **Run the Backend:**
    ```bash
-   cd backend
+   cd ../backend
    npm start
    ```
 
 3. **Run the Frontend:**
    ```bash
-   cd frontend
+   cd ../frontend
    npm start
    ```
 
